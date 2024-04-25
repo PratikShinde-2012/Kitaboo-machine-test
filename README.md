@@ -4,7 +4,7 @@
 For tablet device when landscape mode is switched it shows 2 images at a time. 
 On swiping an image it displays page curling animation.
 
-
+Languages used: Kotlin (100%), XML (100%)
 
 <b>Project details:</b>
 
