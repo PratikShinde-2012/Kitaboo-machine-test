@@ -18,6 +18,8 @@ d. MVVM architecture
 
 e. Supports Android version N (version code 24) and above
 
+f. Dagger-Hilt DI version: 2.44
+
 <b>Project structure:</b>
 
 Under main package we have java->com->kitaboo->kitaboomachinetest
